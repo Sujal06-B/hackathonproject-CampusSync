@@ -1,0 +1,5 @@
+{
+  "name": "CampusSync",
+  "description": "A centralized, mobile-first academic coordination hub for Indian universities. Features real-time announcements, assignment tracking, and course material repositories with AI assistance.",
+  "requestFramePermissions": []
+}
